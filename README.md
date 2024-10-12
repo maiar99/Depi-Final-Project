@@ -6,7 +6,7 @@ In today's digital age, social media platforms like Twitter play a significant r
 
 ### Motivation
 
-The financial markets are often influenced by public perception, news, and social media activity. With the increasing volume of tweets related to financial markets and individual stocks, there is an opportunity to analyze this data to gain insights into market trends. By quantifying sentiment from Twitter data, we can potentially predict future stock movements, providing valuable information for investors and traders.
+Financial markets are significantly influenced by public perception, news, and social media activity. With the increasing volume of tweets related to financial markets and specific stocks, we have a unique opportunity to explore the relationship between Twitter sentiment and stock market movements. By quantifying sentiment from Twitter data, we aim to uncover insights that could help predict future stock price trends, providing valuable information for investors and traders.
 
 ### Objectives
 
