@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In today's digital age, social media platforms like Twitter play a significant role in shaping public opinion and influencing market trends. This project aims to investigate the relationship between Twitter sentiment and stock price movements, specifically focusing on how public sentiment can be leveraged to predict stock prices.
+In today's digital age, social media platforms like Twitter play a significant role in shaping public opinion and influencing market trends. This project aims to investigate the relationship between Twitter sentiment and stock price prediction, specifically focusing on how public sentiment can be leveraged to predict stock prices.
 
 ### Motivation
 
